@@ -1,5 +1,5 @@
 # GO Enrichment Analysis of Promoter Regions
-GO_Enrichment
+
 This project focuses on identifying genes containing a specific transcription factor binding motif in their promoter regions and performing Gene Ontology (GO) enrichment analysis on the resulting gene set.
 
 The workflow includes:
